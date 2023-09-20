@@ -17,8 +17,8 @@ function isTriangle() {
     console.log("Yay, the angles form a triangle!");
     outputEl.innerText = "Yay, the angles form a triangle!";
   } else {
-    console.log("Oh! The angle doesn't form a triangle");
-    outputEl.innerText = "Oh! The angle doesn't form a triangle";
+    console.log("Ohh! The angle doesn't form a triangle");
+    outputEl.innerText = "Ohh! The angle doesn't form a triangle";
   }
 }
 
